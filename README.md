@@ -21,6 +21,10 @@ My passion lies in solving challenges using data! I am also a huge traveling ent
 ## Connect with me :link: 
 [<img align="left" alt="DanielFu-hyg | Linkedin" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
+<p align=center>
+<em> Let's get in touch!</em>
+</p>
+
 
 ## Languages and Tools
 [<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
